@@ -1,0 +1,1 @@
+./bin/node-logstash-agent --config_file=./examples/test.config  --db_file=e:/workspace/node-logstash/examples/test.log
